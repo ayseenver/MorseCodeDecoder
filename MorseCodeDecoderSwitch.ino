@@ -1,13 +1,4 @@
-//dot length = 50ms for example
-//dash length is 3x dot length
-//The letters of a word are separated by a space equal to three dots (one dash), and the words are separated by a space equal to seven dots.
-
-//letters are seperated by 150ms
-//words are seperated by 350ms
-
 //dots are 100ms long
-//however just assume that if it's not a dash, it's a dot. 
-//This variable is just for my reference.
 int dotLength = 100;
 
 //dashes are 3000ms long
