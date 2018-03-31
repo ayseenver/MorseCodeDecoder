@@ -4,7 +4,7 @@ A morse code decoder that translates morse code into English.
 
 ## Getting Started
 
-Open the project in the arduino IDE. The arduino board should have two buttons, one connected to pin 3 and one connected to pin 4. The first is to input dots and dashes, and the second is to submit the letter once the user is done typing.
+Download and unzip the project, then open the project in the arduino IDE. The arduino board should have two buttons, one connected to pin 3 and one connected to pin 4. The first is to input dots and dashes, and the second is to submit the letter once the user is done typing.
 
 Note that to type a space between words - " " - the user needs to input 6 dots instead of just leaving a gap in the typing of words. This is so the user can slow down and explicitly state when they are done typing a word. 
 
